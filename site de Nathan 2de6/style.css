@@ -1,0 +1,16 @@
+p{
+	color: yellow
+}
+h1{
+	color: black
+}
+h2{
+	color: purple
+}
+h1 { text-align: center; }
+body{
+	background: url("https://images-na.ssl-images-amazon.com/images/I/71vnTbuSmNL._AC_SX450_.jpg");
+}
+body{font-style: italic;}
+h1{font-size: 100px;}
+h1{text-decoration: underline; }
